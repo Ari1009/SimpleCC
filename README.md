@@ -44,6 +44,7 @@ args=[]
 method="constantCleaner"
 args=[]
 
+```
 For each X.Y.Z path, these rules are applied:
 
 * X, Y, and Z can be any field names.
